@@ -1,0 +1,25 @@
+{
+  "mockUser": {
+    "uid": "mockUid",
+    "displayName": "Mocky McMockface",
+    "email": "conanmockasin@example.com",
+    "emailVerified": true,
+    "photoURL": "https://example.com/profile.jpg",
+    "phoneNumber": "+1234567890",
+    "providerData": [
+      {
+        "providerId": "password",
+        "uid": "conanmockasin@example.com",
+        "displayName": "Mocky McMockface",
+        "email": "conanmockasin@example.com",
+        "photoURL": "https://example.com/profile.jpg",
+        "phoneNumber": "+1234567890"
+      }
+    ],
+    "metadata": {
+      "creationTime": "Tue, 10 Aug 2023 12:34:56 GMT",
+      "lastSignInTime": "Wed, 11 Aug 2023 15:23:45 GMT"
+    },
+    "isAnonymous": false
+  }
+}

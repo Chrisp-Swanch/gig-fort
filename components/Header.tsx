@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import { FC, useContext, useEffect,useState } from "react";
 import { StyleSheet, View, Text, TouchableOpacity } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
